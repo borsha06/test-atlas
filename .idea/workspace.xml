@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="821cffa8-0dde-4558-9336-9059128c7538" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/Index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/theme/Single.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/about/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/theme/Layout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/theme/Layout.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/home.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/theme/layouts/post.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/guides/getting-started.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/siteData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vuepress/lib/app/.temp/siteData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/7b7df407e5aef76fa8dd2a58aa841cdf.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/7b7df407e5aef76fa8dd2a58aa841cdf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/994ad7a19cef68648b4993410ad31999.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/994ad7a19cef68648b4993410ad31999.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a0086976312b6a7b529efb685c50d93a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/a0086976312b6a7b529efb685c50d93a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e936838b707ada2596cb0004207b2eca.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vuepress/node_modules/.cache/vuepress/e936838b707ada2596cb0004207b2eca.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -120,11 +113,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="105">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -138,10 +131,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/index.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="-1">
               <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
             </state>
           </provider>
@@ -350,18 +343,17 @@
       <workItem from="1541426156291" duration="5205000" />
       <workItem from="1541477912892" duration="609000" />
       <workItem from="1542381605778" duration="11913000" />
-      <workItem from="1542394848516" duration="621000" />
+      <workItem from="1542394848516" duration="1762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23475000" />
+    <option name="totallyTimeSpent" value="24616000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="27" width="1317" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496136" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -373,7 +365,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.16013072" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="1.0" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -426,8 +418,8 @@
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/theme/navLinks.vue" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="105">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -435,13 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -488,6 +473,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="10" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
         </state>
       </provider>
     </entry>
